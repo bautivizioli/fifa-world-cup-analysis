@@ -84,6 +84,7 @@ The data confirms the long-standing dominance of UEFA and CONMEBOL. Although tea
 
 **Verdict:** ❌ Not Supported
 
+![Penalty Analysis](images/penalty_analysis_2.png)
 ![Penalty Analysis](images/penalty_analysis.png)
 
 Winning the coin toss and kicking first does not provide a meaningful advantage in FIFA World Cup penalty shootouts. Instead, the analysis shows that converting the opening penalty is a much stronger predictor of success, while nearly one-third of shootouts end before the fifth kick is even taken.
