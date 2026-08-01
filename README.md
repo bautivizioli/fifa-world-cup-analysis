@@ -6,7 +6,7 @@
 
 This project analyzes every FIFA Men's World Cup between 1930 and 2022 to determine whether some of football's most common beliefs are actually supported by historical data. The project combines Python, statistical analysis, web scraping, and an interactive Streamlit dashboard.
 
-**Live Dashboard:** https://your-app.streamlit.app
+**Live Dashboard:** https://fifa-world-cup-analysis.streamlit.app
 
 
 ## The Myths
