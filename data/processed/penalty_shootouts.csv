@@ -1,0 +1,312 @@
+year,round,winner,loser,team,taker,penalty_order,scored,first_taker
+1982,Semi-finals,West Germany,France,West Germany,Kaltz,1,True,False
+1982,Semi-finals,West Germany,France,West Germany,Breitner,2,True,False
+1982,Semi-finals,West Germany,France,West Germany,Stielike,3,False,False
+1982,Semi-finals,West Germany,France,West Germany,Littbarski,4,True,False
+1982,Semi-finals,West Germany,France,West Germany,Rummenigge,5,True,False
+1982,Semi-finals,West Germany,France,France,Giresse,1,True,True
+1982,Semi-finals,West Germany,France,France,Amoros,2,True,False
+1982,Semi-finals,West Germany,France,France,Rocheteau,3,True,False
+1982,Semi-finals,West Germany,France,France,Six,4,False,False
+1982,Semi-finals,West Germany,France,France,Platini,5,True,False
+1986,Quarter-finals,France,Brazil,France,Stopyra,1,True,False
+1986,Quarter-finals,France,Brazil,France,Amoros,2,True,False
+1986,Quarter-finals,France,Brazil,France,Bellone,3,True,False
+1986,Quarter-finals,France,Brazil,France,Platini,4,False,False
+1986,Quarter-finals,France,Brazil,France,Fernández,5,True,False
+1986,Quarter-finals,France,Brazil,Brazil,Sócrates,1,False,True
+1986,Quarter-finals,France,Brazil,Brazil,Alemão,2,True,False
+1986,Quarter-finals,France,Brazil,Brazil,Zico,3,True,False
+1986,Quarter-finals,France,Brazil,Brazil,Branco,4,True,False
+1986,Quarter-finals,France,Brazil,Brazil,Júlio César,5,False,False
+1986,Quarter-finals,West Germany,Mexico,West Germany,Allofs,1,True,True
+1986,Quarter-finals,West Germany,Mexico,West Germany,Brehme,2,True,False
+1986,Quarter-finals,West Germany,Mexico,West Germany,Matthäus,3,True,False
+1986,Quarter-finals,West Germany,Mexico,West Germany,Littbarski,4,True,False
+1986,Quarter-finals,West Germany,Mexico,Mexico,Negrete,1,True,False
+1986,Quarter-finals,West Germany,Mexico,Mexico,Quirarte,2,False,False
+1986,Quarter-finals,West Germany,Mexico,Mexico,Servín,3,False,False
+1986,Quarter-finals,Belgium,Spain,Belgium,Claesen,1,True,False
+1986,Quarter-finals,Belgium,Spain,Belgium,Scifo,2,True,False
+1986,Quarter-finals,Belgium,Spain,Belgium,Broos,3,True,False
+1986,Quarter-finals,Belgium,Spain,Belgium,Vervoort,4,True,False
+1986,Quarter-finals,Belgium,Spain,Belgium,L. Van der Elst,5,True,False
+1986,Quarter-finals,Belgium,Spain,Spain,Señor,1,True,True
+1986,Quarter-finals,Belgium,Spain,Spain,Eloy,2,False,False
+1986,Quarter-finals,Belgium,Spain,Spain,Chendo,3,True,False
+1986,Quarter-finals,Belgium,Spain,Spain,Butragueño,4,True,False
+1986,Quarter-finals,Belgium,Spain,Spain,Víctor,5,True,False
+1990,Round of 16,Republic of Ireland,Romania,Republic of Ireland,Sheedy,1,True,False
+1990,Round of 16,Republic of Ireland,Romania,Republic of Ireland,Houghton,2,True,False
+1990,Round of 16,Republic of Ireland,Romania,Republic of Ireland,Townsend,3,True,False
+1990,Round of 16,Republic of Ireland,Romania,Republic of Ireland,Cascarino,4,True,False
+1990,Round of 16,Republic of Ireland,Romania,Republic of Ireland,O'Leary,5,True,False
+1990,Round of 16,Republic of Ireland,Romania,Romania,Hagi,1,True,True
+1990,Round of 16,Republic of Ireland,Romania,Romania,Lupu,2,True,False
+1990,Round of 16,Republic of Ireland,Romania,Romania,Rotariu,3,True,False
+1990,Round of 16,Republic of Ireland,Romania,Romania,Lupescu,4,True,False
+1990,Round of 16,Republic of Ireland,Romania,Romania,Timofte,5,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Argentina,Serrizuela,1,True,True
+1990,Quarter-finals,Argentina,Yugoslavia,Argentina,Burruchaga,2,True,False
+1990,Quarter-finals,Argentina,Yugoslavia,Argentina,Maradona,3,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Argentina,Troglio,4,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Argentina,Dezotti,5,True,False
+1990,Quarter-finals,Argentina,Yugoslavia,Yugoslavia,Stojković,1,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Yugoslavia,Prosinečki,2,True,False
+1990,Quarter-finals,Argentina,Yugoslavia,Yugoslavia,Savićević,3,True,False
+1990,Quarter-finals,Argentina,Yugoslavia,Yugoslavia,Brnović,4,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Yugoslavia,Hadžibegić,5,False,False
+1990,Semi-finals,Argentina,Italy,Argentina,Serrizuela,1,True,False
+1990,Semi-finals,Argentina,Italy,Argentina,Burruchaga,2,True,False
+1990,Semi-finals,Argentina,Italy,Argentina,Olarticoechea,3,True,False
+1990,Semi-finals,Argentina,Italy,Argentina,Maradona,4,True,False
+1990,Semi-finals,Argentina,Italy,Italy,Baresi,1,True,True
+1990,Semi-finals,Argentina,Italy,Italy,R. Baggio,2,True,False
+1990,Semi-finals,Argentina,Italy,Italy,De Agostini,3,True,False
+1990,Semi-finals,Argentina,Italy,Italy,Donadoni,4,False,False
+1990,Semi-finals,Argentina,Italy,Italy,Serena,5,False,False
+1990,Semi-finals,West Germany,England,West Germany,Brehme,1,True,False
+1990,Semi-finals,West Germany,England,West Germany,Matthäus,2,True,False
+1990,Semi-finals,West Germany,England,West Germany,Riedle,3,True,False
+1990,Semi-finals,West Germany,England,West Germany,Thon,4,True,False
+1990,Semi-finals,West Germany,England,England,Lineker,1,True,True
+1990,Semi-finals,West Germany,England,England,Beardsley,2,True,False
+1990,Semi-finals,West Germany,England,England,Platt,3,True,False
+1990,Semi-finals,West Germany,England,England,Pearce,4,False,False
+1990,Semi-finals,West Germany,England,England,Waddle,5,False,False
+1994,Round of 16,Bulgaria,Mexico,Bulgaria,Balakov,1,False,False
+1994,Round of 16,Bulgaria,Mexico,Bulgaria,Genchev,2,True,False
+1994,Round of 16,Bulgaria,Mexico,Bulgaria,Borimirov,3,True,False
+1994,Round of 16,Bulgaria,Mexico,Bulgaria,Lechkov,4,True,False
+1994,Round of 16,Bulgaria,Mexico,Mexico,García Aspe,1,False,True
+1994,Round of 16,Bulgaria,Mexico,Mexico,Bernal,2,False,False
+1994,Round of 16,Bulgaria,Mexico,Mexico,J. Rodríguez,3,False,False
+1994,Round of 16,Bulgaria,Mexico,Mexico,Suárez,4,True,False
+1994,Quarter-finals,Sweden,Romania,Sweden,Mild,1,False,True
+1994,Quarter-finals,Sweden,Romania,Sweden,K. Andersson,2,True,False
+1994,Quarter-finals,Sweden,Romania,Sweden,Brolin,3,True,False
+1994,Quarter-finals,Sweden,Romania,Sweden,Ingesson,4,True,False
+1994,Quarter-finals,Sweden,Romania,Sweden,R. Nilsson,5,True,False
+1994,Quarter-finals,Sweden,Romania,Romania,Răducioiu,1,True,False
+1994,Quarter-finals,Sweden,Romania,Romania,Hagi,2,True,False
+1994,Quarter-finals,Sweden,Romania,Romania,Lupescu,3,True,False
+1994,Quarter-finals,Sweden,Romania,Romania,Petrescu,4,False,False
+1994,Quarter-finals,Sweden,Romania,Romania,Dumitrescu,5,True,False
+1994,Final,Brazil,Italy,Brazil,Santos,1,False,False
+1994,Final,Brazil,Italy,Brazil,Romário,2,True,False
+1994,Final,Brazil,Italy,Brazil,Branco,3,True,False
+1994,Final,Brazil,Italy,Brazil,Dunga,4,True,False
+1994,Final,Brazil,Italy,Italy,Baresi,1,False,True
+1994,Final,Brazil,Italy,Italy,Albertini,2,True,False
+1994,Final,Brazil,Italy,Italy,Evani,3,True,False
+1994,Final,Brazil,Italy,Italy,Massaro,4,False,False
+1994,Final,Brazil,Italy,Italy,R. Baggio,5,False,False
+1998,Round of 16,Argentina,England,Argentina,Berti,1,True,True
+1998,Round of 16,Argentina,England,Argentina,Crespo,2,False,False
+1998,Round of 16,Argentina,England,Argentina,Verón,3,True,False
+1998,Round of 16,Argentina,England,Argentina,Gallardo,4,True,False
+1998,Round of 16,Argentina,England,Argentina,Ayala,5,True,False
+1998,Round of 16,Argentina,England,England,Shearer,1,True,False
+1998,Round of 16,Argentina,England,England,Ince,2,False,False
+1998,Round of 16,Argentina,England,England,Merson,3,True,False
+1998,Round of 16,Argentina,England,England,Owen,4,True,False
+1998,Round of 16,Argentina,England,England,Batty,5,False,False
+1998,Quarter-finals,France,Italy,France,Zidane,1,True,True
+1998,Quarter-finals,France,Italy,France,Lizarazu,2,False,False
+1998,Quarter-finals,France,Italy,France,Trezeguet,3,True,False
+1998,Quarter-finals,France,Italy,France,Henry,4,True,False
+1998,Quarter-finals,France,Italy,France,Blanc,5,True,False
+1998,Quarter-finals,France,Italy,Italy,R. Baggio,1,True,False
+1998,Quarter-finals,France,Italy,Italy,Albertini,2,False,False
+1998,Quarter-finals,France,Italy,Italy,Costacurta,3,True,False
+1998,Quarter-finals,France,Italy,Italy,Vieri,4,True,False
+1998,Quarter-finals,France,Italy,Italy,Di Biagio,5,False,False
+1998,Semi-finals,Brazil,Netherlands,Brazil,Ronaldo,1,True,True
+1998,Semi-finals,Brazil,Netherlands,Brazil,Rivaldo,2,True,False
+1998,Semi-finals,Brazil,Netherlands,Brazil,Emerson,3,True,False
+1998,Semi-finals,Brazil,Netherlands,Brazil,Dunga,4,True,False
+1998,Semi-finals,Brazil,Netherlands,Netherlands,F. de Boer,1,True,False
+1998,Semi-finals,Brazil,Netherlands,Netherlands,Bergkamp,2,True,False
+1998,Semi-finals,Brazil,Netherlands,Netherlands,Cocu,3,False,False
+1998,Semi-finals,Brazil,Netherlands,Netherlands,R. de Boer,4,False,False
+2002,Round of 16,Spain,Republic of Ireland,Spain,Hierro,1,True,False
+2002,Round of 16,Spain,Republic of Ireland,Spain,Baraja,2,True,False
+2002,Round of 16,Spain,Republic of Ireland,Spain,Juanfran,3,False,False
+2002,Round of 16,Spain,Republic of Ireland,Spain,Valerón,4,False,False
+2002,Round of 16,Spain,Republic of Ireland,Spain,Mendieta,5,True,False
+2002,Round of 16,Spain,Republic of Ireland,Republic of Ireland,Robbie Keane,1,True,True
+2002,Round of 16,Spain,Republic of Ireland,Republic of Ireland,Holland,2,False,False
+2002,Round of 16,Spain,Republic of Ireland,Republic of Ireland,Connolly,3,False,False
+2002,Round of 16,Spain,Republic of Ireland,Republic of Ireland,Kilbane,4,False,False
+2002,Round of 16,Spain,Republic of Ireland,Republic of Ireland,Finnan,5,True,False
+2002,Quarter-finals,South Korea,Spain,South Korea,Hwang Sun-hong,1,True,True
+2002,Quarter-finals,South Korea,Spain,South Korea,Park Ji-sung,2,True,False
+2002,Quarter-finals,South Korea,Spain,South Korea,Seol Ki-hyeon,3,True,False
+2002,Quarter-finals,South Korea,Spain,South Korea,Ahn Jung-hwan,4,True,False
+2002,Quarter-finals,South Korea,Spain,South Korea,Hong Myung-bo,5,True,False
+2002,Quarter-finals,South Korea,Spain,Spain,Hierro,1,True,False
+2002,Quarter-finals,South Korea,Spain,Spain,Baraja,2,True,False
+2002,Quarter-finals,South Korea,Spain,Spain,Xavi,3,True,False
+2002,Quarter-finals,South Korea,Spain,Spain,Joaquín,4,False,False
+2006,Round of 16,Ukraine,Switzerland,Ukraine,Shevchenko,1,False,True
+2006,Round of 16,Ukraine,Switzerland,Ukraine,Milevskyi,2,True,False
+2006,Round of 16,Ukraine,Switzerland,Ukraine,Rebrov,3,True,False
+2006,Round of 16,Ukraine,Switzerland,Ukraine,Husyev,4,True,False
+2006,Round of 16,Ukraine,Switzerland,Switzerland,Streller,1,False,False
+2006,Round of 16,Ukraine,Switzerland,Switzerland,Barnetta,2,False,False
+2006,Round of 16,Ukraine,Switzerland,Switzerland,Cabanas,3,False,False
+2006,Quarter-finals,Germany,Argentina,Germany,Neuville,1,True,True
+2006,Quarter-finals,Germany,Argentina,Germany,Ballack,2,True,False
+2006,Quarter-finals,Germany,Argentina,Germany,Podolski,3,True,False
+2006,Quarter-finals,Germany,Argentina,Germany,Borowski,4,True,False
+2006,Quarter-finals,Germany,Argentina,Argentina,Cruz,1,True,False
+2006,Quarter-finals,Germany,Argentina,Argentina,Ayala,2,False,False
+2006,Quarter-finals,Germany,Argentina,Argentina,M. Rodríguez,3,True,False
+2006,Quarter-finals,Germany,Argentina,Argentina,Cambiasso,4,False,False
+2006,Quarter-finals,Portugal,England,Portugal,Simão,1,True,True
+2006,Quarter-finals,Portugal,England,Portugal,Viana,2,False,False
+2006,Quarter-finals,Portugal,England,Portugal,Petit,3,False,False
+2006,Quarter-finals,Portugal,England,Portugal,Postiga,4,True,False
+2006,Quarter-finals,Portugal,England,Portugal,Ronaldo,5,True,False
+2006,Quarter-finals,Portugal,England,England,Lampard,1,False,False
+2006,Quarter-finals,Portugal,England,England,Hargreaves,2,True,False
+2006,Quarter-finals,Portugal,England,England,Gerrard,3,False,False
+2006,Quarter-finals,Portugal,England,England,Carragher,4,False,False
+2006,Final,Italy,France,Italy,Pirlo,1,True,True
+2006,Final,Italy,France,Italy,Materazzi,2,True,False
+2006,Final,Italy,France,Italy,De Rossi,3,True,False
+2006,Final,Italy,France,Italy,Del Piero,4,True,False
+2006,Final,Italy,France,Italy,Grosso,5,True,False
+2006,Final,Italy,France,France,Wiltord,1,True,False
+2006,Final,Italy,France,France,Trezeguet,2,False,False
+2006,Final,Italy,France,France,Abidal,3,True,False
+2006,Final,Italy,France,France,Sagnol,4,True,False
+2010,Round of 16,Paraguay,Japan,Paraguay,Barreto,1,True,True
+2010,Round of 16,Paraguay,Japan,Paraguay,Barrios,2,True,False
+2010,Round of 16,Paraguay,Japan,Paraguay,Riveros,3,True,False
+2010,Round of 16,Paraguay,Japan,Paraguay,Valdez,4,True,False
+2010,Round of 16,Paraguay,Japan,Paraguay,Cardozo,5,True,False
+2010,Round of 16,Paraguay,Japan,Japan,Endō,1,True,False
+2010,Round of 16,Paraguay,Japan,Japan,Hasebe,2,True,False
+2010,Round of 16,Paraguay,Japan,Japan,Komano,3,False,False
+2010,Round of 16,Paraguay,Japan,Japan,Honda,4,True,False
+2010,Quarter-finals,Uruguay,Ghana,Uruguay,Forlán,1,True,True
+2010,Quarter-finals,Uruguay,Ghana,Uruguay,Victorino,2,True,False
+2010,Quarter-finals,Uruguay,Ghana,Uruguay,Scotti,3,True,False
+2010,Quarter-finals,Uruguay,Ghana,Uruguay,M. Pereira,4,False,False
+2010,Quarter-finals,Uruguay,Ghana,Uruguay,Abreu,5,True,False
+2010,Quarter-finals,Uruguay,Ghana,Ghana,Gyan,1,True,False
+2010,Quarter-finals,Uruguay,Ghana,Ghana,Appiah,2,True,False
+2010,Quarter-finals,Uruguay,Ghana,Ghana,Mensah,3,False,False
+2010,Quarter-finals,Uruguay,Ghana,Ghana,Adiyiah,4,False,False
+2014,Round of 16,Brazil,Chile,Brazil,David Luiz,1,True,True
+2014,Round of 16,Brazil,Chile,Brazil,Willian,2,False,False
+2014,Round of 16,Brazil,Chile,Brazil,Marcelo,3,True,False
+2014,Round of 16,Brazil,Chile,Brazil,Hulk,4,False,False
+2014,Round of 16,Brazil,Chile,Brazil,Neymar,5,True,False
+2014,Round of 16,Brazil,Chile,Chile,Pinilla,1,False,False
+2014,Round of 16,Brazil,Chile,Chile,Sánchez,2,False,False
+2014,Round of 16,Brazil,Chile,Chile,Aránguiz,3,True,False
+2014,Round of 16,Brazil,Chile,Chile,Díaz,4,True,False
+2014,Round of 16,Brazil,Chile,Chile,Jara,5,False,False
+2014,Round of 16,Costa Rica,Greece,Costa Rica,Borges,1,True,True
+2014,Round of 16,Costa Rica,Greece,Costa Rica,Ruiz,2,True,False
+2014,Round of 16,Costa Rica,Greece,Costa Rica,González,3,True,False
+2014,Round of 16,Costa Rica,Greece,Costa Rica,Campbell,4,True,False
+2014,Round of 16,Costa Rica,Greece,Costa Rica,Umaña,5,True,False
+2014,Round of 16,Costa Rica,Greece,Greece,Mitroglou,1,True,False
+2014,Round of 16,Costa Rica,Greece,Greece,Lazaros,2,True,False
+2014,Round of 16,Costa Rica,Greece,Greece,Holebas,3,True,False
+2014,Round of 16,Costa Rica,Greece,Greece,Gekas,4,False,False
+2014,Quarter-finals,Netherlands,Costa Rica,Netherlands,Van Persie,1,True,False
+2014,Quarter-finals,Netherlands,Costa Rica,Netherlands,Robben,2,True,False
+2014,Quarter-finals,Netherlands,Costa Rica,Netherlands,Sneijder,3,True,False
+2014,Quarter-finals,Netherlands,Costa Rica,Netherlands,Kuyt,4,True,False
+2014,Quarter-finals,Netherlands,Costa Rica,Costa Rica,Borges,1,True,True
+2014,Quarter-finals,Netherlands,Costa Rica,Costa Rica,Ruiz,2,False,False
+2014,Quarter-finals,Netherlands,Costa Rica,Costa Rica,González,3,True,False
+2014,Quarter-finals,Netherlands,Costa Rica,Costa Rica,Bolaños,4,True,False
+2014,Quarter-finals,Netherlands,Costa Rica,Costa Rica,Umaña,5,False,False
+2014,Semi-finals,Argentina,Netherlands,Argentina,Messi,1,True,False
+2014,Semi-finals,Argentina,Netherlands,Argentina,Garay,2,True,False
+2014,Semi-finals,Argentina,Netherlands,Argentina,Agüero,3,True,False
+2014,Semi-finals,Argentina,Netherlands,Argentina,M. Rodríguez,4,True,False
+2014,Semi-finals,Argentina,Netherlands,Netherlands,Vlaar,1,False,True
+2014,Semi-finals,Argentina,Netherlands,Netherlands,Robben,2,True,False
+2014,Semi-finals,Argentina,Netherlands,Netherlands,Sneijder,3,False,False
+2014,Semi-finals,Argentina,Netherlands,Netherlands,Kuyt,4,True,False
+2018,Round of 16,Russia,Spain,Russia,Cheryshev,4,True,False
+2018,Round of 16,Russia,Spain,Spain,Iniesta,1,True,True
+2018,Round of 16,Russia,Spain,Spain,Piqué,2,True,False
+2018,Round of 16,Russia,Spain,Spain,Koke,3,False,False
+2018,Round of 16,Russia,Spain,Spain,Ramos,4,True,False
+2018,Round of 16,Russia,Spain,Spain,Aspas,5,False,False
+2018,Round of 16,Croatia,Denmark,Croatia,Badelj,1,False,False
+2018,Round of 16,Croatia,Denmark,Croatia,Kramarić,2,True,False
+2018,Round of 16,Croatia,Denmark,Croatia,Modrić,3,True,False
+2018,Round of 16,Croatia,Denmark,Croatia,Pivarić,4,False,False
+2018,Round of 16,Croatia,Denmark,Croatia,Rakitić,5,True,False
+2018,Round of 16,Croatia,Denmark,Denmark,Eriksen,1,False,True
+2018,Round of 16,Croatia,Denmark,Denmark,Kjær,2,True,False
+2018,Round of 16,Croatia,Denmark,Denmark,Krohn-Dehli,3,True,False
+2018,Round of 16,Croatia,Denmark,Denmark,Schöne,4,False,False
+2018,Round of 16,Croatia,Denmark,Denmark,N. Jørgensen,5,False,False
+2018,Round of 16,England,Colombia,England,Kane,1,True,False
+2018,Round of 16,England,Colombia,England,Rashford,2,True,False
+2018,Round of 16,England,Colombia,England,Henderson,3,False,False
+2018,Round of 16,England,Colombia,England,Trippier,4,True,False
+2018,Round of 16,England,Colombia,England,Dier,5,True,False
+2018,Round of 16,England,Colombia,Colombia,Falcao,1,True,True
+2018,Round of 16,England,Colombia,Colombia,Ju. Cuadrado,2,True,False
+2018,Round of 16,England,Colombia,Colombia,Muriel,3,True,False
+2018,Round of 16,England,Colombia,Colombia,Uribe,4,False,False
+2018,Round of 16,England,Colombia,Colombia,Bacca,5,False,False
+2018,Quarter-finals,Croatia,Russia,Croatia,Kovačić,2,False,False
+2018,Quarter-finals,Croatia,Russia,Croatia,Modrić,3,True,False
+2018,Quarter-finals,Croatia,Russia,Croatia,Vida,4,True,False
+2018,Quarter-finals,Croatia,Russia,Croatia,Rakitić,5,True,False
+2018,Quarter-finals,Croatia,Russia,Russia,Smolov,1,False,True
+2018,Quarter-finals,Croatia,Russia,Russia,Dzagoev,2,True,False
+2018,Quarter-finals,Croatia,Russia,Russia,Fernandes,3,False,False
+2018,Quarter-finals,Croatia,Russia,Russia,Ignashevich,4,True,False
+2018,Quarter-finals,Croatia,Russia,Russia,Kuzyayev,5,True,False
+2022,Round of 16,Croatia,Japan,Croatia,Brozović,2,True,False
+2022,Round of 16,Croatia,Japan,Croatia,Livaja,3,False,False
+2022,Round of 16,Croatia,Japan,Croatia,Pašalić,4,True,False
+2022,Round of 16,Croatia,Japan,Japan,Minamino,1,False,True
+2022,Round of 16,Croatia,Japan,Japan,Mitoma,2,False,False
+2022,Round of 16,Croatia,Japan,Japan,Asano,3,True,False
+2022,Round of 16,Croatia,Japan,Japan,Yoshida,4,False,False
+2022,Round of 16,Morocco,Spain,Morocco,Sabiri,1,True,True
+2022,Round of 16,Morocco,Spain,Morocco,Ziyech,2,True,False
+2022,Round of 16,Morocco,Spain,Morocco,Benoun,3,False,False
+2022,Round of 16,Morocco,Spain,Morocco,Hakimi,4,True,False
+2022,Round of 16,Morocco,Spain,Spain,Sarabia,1,False,False
+2022,Round of 16,Morocco,Spain,Spain,Soler,2,False,False
+2022,Round of 16,Morocco,Spain,Spain,Busquets,3,False,False
+2022,Quarter-finals,Croatia,Brazil,Croatia,Vlašić,1,True,True
+2022,Quarter-finals,Croatia,Brazil,Croatia,Majer,2,True,False
+2022,Quarter-finals,Croatia,Brazil,Croatia,Modrić,3,True,False
+2022,Quarter-finals,Croatia,Brazil,Croatia,Oršić,4,True,False
+2022,Quarter-finals,Croatia,Brazil,Brazil,Rodrygo,1,False,False
+2022,Quarter-finals,Croatia,Brazil,Brazil,Casemiro,2,True,False
+2022,Quarter-finals,Croatia,Brazil,Brazil,Pedro,3,True,False
+2022,Quarter-finals,Croatia,Brazil,Brazil,Marquinhos,4,False,False
+2022,Quarter-finals,Argentina,Netherlands,Argentina,Messi,1,True,False
+2022,Quarter-finals,Argentina,Netherlands,Argentina,Paredes,2,True,False
+2022,Quarter-finals,Argentina,Netherlands,Argentina,Montiel,3,True,False
+2022,Quarter-finals,Argentina,Netherlands,Argentina,Fernández,4,False,False
+2022,Quarter-finals,Argentina,Netherlands,Argentina,La. Martínez,5,True,False
+2022,Quarter-finals,Argentina,Netherlands,Netherlands,Van Dijk,1,False,True
+2022,Quarter-finals,Argentina,Netherlands,Netherlands,Berghuis,2,False,False
+2022,Quarter-finals,Argentina,Netherlands,Netherlands,Koopmeiners,3,True,False
+2022,Quarter-finals,Argentina,Netherlands,Netherlands,Weghorst,4,True,False
+2022,Quarter-finals,Argentina,Netherlands,Netherlands,L. de Jong,5,True,False
+2022,Final,Argentina,France,Argentina,Messi,1,True,False
+2022,Final,Argentina,France,Argentina,Dybala,2,True,False
+2022,Final,Argentina,France,Argentina,Paredes,3,True,False
+2022,Final,Argentina,France,Argentina,Montiel,4,True,False
+2022,Final,Argentina,France,France,Mbappé,1,True,True
+2022,Final,Argentina,France,France,Coman,2,False,False
+2022,Final,Argentina,France,France,Tchouaméni,3,False,False
+2022,Final,Argentina,France,France,Kolo Muani,4,True,False
