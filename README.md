@@ -20,7 +20,7 @@ This analysis compares the average age of squads across different tournament sta
 Despite the expansion of the tournament over time, is the knockout stage still dominated by UEFA and CONMEBOL?  
 This analysis measures how each confederation has performed throughout World Cup history.
 
-### 3️⃣ Myth — Penalty shootouts are decided by the coin toss.
+### 3️⃣ Myth - Penalty shootouts are decided by the coin toss.
 Many fans believe that winning the coin toss gives a decisive advantage by allowing a team to kick first. Using every FIFA World Cup penalty shootout, this analysis tests whether kicking first truly increases the chances of winning.
 
 
@@ -80,7 +80,7 @@ The data confirms the long-standing dominance of UEFA and CONMEBOL. Although tea
 
 ---
 
-### 3️⃣ Myth — Penalty shootouts are decided by the coin toss
+### 3️⃣ Myth - Penalty shootouts are decided by the coin toss
 
 **Verdict:** ❌ Not Supported
 
