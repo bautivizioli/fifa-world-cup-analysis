@@ -94,7 +94,7 @@ Winning the coin toss and kicking first does not provide a meaningful advantage 
 Download the raw datasets from the Fjelstul World Cup Database and place them inside the `data/raw/` directory.
 
 ```
-git clone https://github.com/tuusuario/world-cup-analysis.git
+git clone https://github.com/bautivizioli/fifa-world-cup-analysis.git
 
 cd world-cup-analysis
 
